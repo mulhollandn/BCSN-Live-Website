@@ -3020,15 +3020,15 @@
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: rgb(0,110,245);
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: rgb(0,110,245);
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: rgb(0,110,245);
 		}
 
 		.spotlight.inactive .content {
@@ -3352,8 +3352,8 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(0,110,245,.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(0,110,245,.95)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			content: '';
