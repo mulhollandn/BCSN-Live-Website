@@ -2133,7 +2133,7 @@
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: rgb(0,110,245);
 			content: '';
 			display: inline-block;
 			height: 0.2em;
