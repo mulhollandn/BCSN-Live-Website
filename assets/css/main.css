@@ -1579,7 +1579,7 @@
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e44c65;
+		color: rgb(0,110,245);
 		text-decoration: none;
 	}
 
@@ -2063,7 +2063,7 @@
 			height: 100%;
 			left: 0;
 			opacity: 0;
-			position: fixed;
+			position: fixed;style="font-size:200%"
 			top: 0;
 			width: 100%;
 			z-index: -1;
